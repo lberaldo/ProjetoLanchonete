@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/index.html</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/src/java/util/JPAutil.java</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/src/java/modelo/Produto.java</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Produto/editar.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/src/java/modelo/Funcionario.java</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Produto/exibir.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/src/java/modelo/Pedido.java</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Pedido/exibir.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Funcionario/editar.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/src/java/modelo/Item.java</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/src/java/controle/Controle.java</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Funcionario/novo.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Pedido/excluir.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Produto/excluir.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Pedido/Pagamento.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Pedido/editar.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Funcionario/exibir.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Produto/novo.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Pedido/novo.jsp</file>
+            <file>file:/C:/Users/Thiago/Documents/NetBeansProjects/Lanchonete/web/Funcionario/excluir.jsp</file>
+        </group>
+    </open-files>
+</project-private>
